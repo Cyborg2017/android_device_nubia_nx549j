@@ -29,6 +29,7 @@ TARGET_QCOM_NO_FM_FIRMWARE := true
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # Kernel
+BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
 TARGET_KERNEL_CONFIG := mokee_nx549j_defconfig
 
 # MoKee Hardware
