@@ -1,4 +1,4 @@
-Copyright 2018 - The LineageOS Project
+Copyright 2017-2020 - The MoKee Project
 
 Device configuration for Nubia Z11 mini S (NX549J).
 =======================================================
